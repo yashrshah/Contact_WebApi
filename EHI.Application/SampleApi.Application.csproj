@@ -16,9 +16,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EHI.Data\EHI.Data.csproj" />
-    <ProjectReference Include="..\EHI.Entities\EHI.Entities.csproj" />
-    <ProjectReference Include="..\EHI.Services\EHI.Services.csproj" />
+    <ProjectReference Include="..\EHI.Data\SampleApi.Data.csproj" />
+    <ProjectReference Include="..\EHI.Entities\SampleApi.Entities.csproj" />
+    <ProjectReference Include="..\EHI.Services\SampleApi.Services.csproj" />
   </ItemGroup>
 
 </Project>
